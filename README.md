@@ -1,4 +1,4 @@
-# AdminPanel Automation Framework
+# Problem Statement 17: AdminPanel – Selenium-Java Test Automation Framework for a Web-Based Admin Dashboard
 
 **AdminPanel Automation** is a comprehensive Selenium WebDriver-based test automation framework designed for testing web administration panels and applications. The framework implements the **Page Object Model (POM)** pattern and covers end-to-end testing scenarios including form validation, alert handling, dynamic element interaction, and frame navigation using TestNG with parallel execution and Extent Reports.
 
